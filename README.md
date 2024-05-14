@@ -4,7 +4,7 @@ It utilizes YOLOv8 for face detection and either ResNet50 or MobileNet for eye g
 
 ## Features
 - Face detection using YOLOv8
-- Eye gaze detection using ResNet50 or MobileNet
+- Eye gaze detection using ResNet50, MobileNet V2, MobileNet V3 Small, SqueezeNet
 - Real-time monitoring of driver's face and eye movements
   
 # Installation
