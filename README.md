@@ -1,6 +1,6 @@
 # Overview
 This project is aimed at creating a Driver Monitoring System (DMS) capable of detecting faces of drivers and determining their gaze direction to enhance safety while driving.
-It utilizes YOLOv8 for face detection and either ResNet50 or MobileNet for eye gaze detection.
+It utilizes YOLOv8 for face detection and ResNet50, MobileNet V2, MobileNet V3 Small, SqueezeNet for eye gaze detection.
 
 ## Features
 - Face detection using YOLOv8
